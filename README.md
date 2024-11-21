@@ -72,8 +72,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 
-### Developed by : Dharini PV
-### Register no: 212222240024
+### Developed by : Jesu Smartia A
+### Register no: 212223110016
 ```
 /* USER CODE BEGIN Header */
 /**
